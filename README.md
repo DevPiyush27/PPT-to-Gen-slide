@@ -22,9 +22,4 @@ Instead of relying on expensive cloud subscriptions, this tool is designed to be
 1. **Python 3.11 or 3.12:** Recommended to avoid C-extension build issues in newer Python 3.13 versions.
 2. **Poppler:** Required by `pdf2image` to convert slide PDFs into image frames. Ensure Poppler is installed and added to your system's PATH.
 
-## 🚀 Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/pptx-to-ai-video.git](https://github.com/your-username/pptx-to-ai-video.git)
-   cd pptx-to-ai-video
