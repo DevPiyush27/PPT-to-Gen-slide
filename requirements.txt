@@ -1,0 +1,7 @@
+python-pptx
+pdf2image
+comtypes
+python-dotenv
+requests
+edge-tts
+moviepy>=2.0.0
